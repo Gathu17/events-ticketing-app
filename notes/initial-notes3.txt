@@ -1,0 +1,48 @@
+highlights outdoor events in Kenya
+details of the events
+ticketing
+international hence multiple payment systems
+sign up to buy ticket
+admin setup
+
+premieronline.com - emulate from there
+
+Company: "Wild weekends"
+
+Main thing is ticketing
+
+ranking based on rating
+
+
+Every week featured events
+people register and pay form the website
+clear who's organising for the event
+search event either by category of the event or type of the event
+Sorted by newest first
+
+Users can review the event
+Refund policy
+Deadline for registration
+Rating of events
+Event can be done again in future and carry reviews in future
+
+Users can register without signing in. But review requires signing in.
+Registration of event requires email and phone number
+
+Review can happen via online after the event
+
+login for event organisers then on uploading event, admin can approve for it to go live
+
+Organisers uploading: Date, location, Venue, Registration deadline, cancellation and refund policy deadline or change of category, start time, ticket fee, description for the event, location map for the venue, 2 or 3 pictures
+
+Organisers account creation requirements: organisers logo, contacts, email address, office location, main contact person, preferred mode of payment
+
+payment options for event organisers: mpesa or bank
+
+mpesa paybill, visa option
+
+users: name, email, contact, age
+
+Age will have brackets: <18, 18 - 30, 30 - 40, 40 - 50, ... 100
+
+Colour pallette from jamesmuhia.com
